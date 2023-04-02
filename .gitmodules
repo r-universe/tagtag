@@ -8,3 +8,8 @@
 	url = https://github.com/tagtag/tdbasedufe
 	shallow = true
 	registered = true
+[submodule "TDbasedUFEadv"]
+	path = TDbasedUFEadv
+	url = https://github.com/tagtag/tdbasedufeadv
+	shallow = true
+	registered = true
